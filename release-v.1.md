@@ -19,6 +19,7 @@ results/
   sensitivity/
   perturbation/
   audit/
+  Matlab/
 ```
 
 ## Metadata
